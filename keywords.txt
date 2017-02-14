@@ -1,0 +1,5 @@
+GroveBot	KEYWORD1
+forward	KEYWORD2
+backward	KEYWORD2
+spinLeft	KEYWORD2
+spinRight	KEYWORD2
